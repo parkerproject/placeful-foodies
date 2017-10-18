@@ -20,7 +20,6 @@ const App = () => (
           </main>
         </Grid.Column>
       </Grid>
-
     </Container>
   </div>
 );
